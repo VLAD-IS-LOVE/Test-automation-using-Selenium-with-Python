@@ -1,5 +1,7 @@
 # Test-automation-using-Selenium-with-Python
 
+Файлы с решениями задач.
+
 https://stepik.org/course/575
 
 **1. Знакомимся с Selenium**
